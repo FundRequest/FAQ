@@ -1,2 +1,2 @@
 # FAQ
-Management of the FAQ section on our platform
+Management of the FAQ sections on our platform
