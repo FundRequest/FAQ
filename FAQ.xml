@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faqs>
-		<page name="requestDetail">
-			<faq>
-				<title>FAQ 1</title>
-				<md-file path="requestDetail/FAQ1.md"/>
-			</faq>
-			<faq>
-				<title>FAQ 2</title>
-				<md-file path="requestDetail/FAQ2.md"/>
-			</faq>
-			<faq>
-				<title>FAQ 3</title>
-				<md-file path="requestDetail/FAQ3.md"/>
-			</faq>
-		</page>
+	<page name="requestDetail">
+		<faq>
+			<title>FAQ 1</title>
+			<md-file path="requestDetail/FAQ1.md"/>
+		</faq>
+		<faq>
+			<title>FAQ 2</title>
+			<md-file path="requestDetail/FAQ2.md"/>
+		</faq>
+		<faq>
+			<title>FAQ 3</title>
+			<md-file path="requestDetail/FAQ3.md"/>
+		</faq>
+	</page>
 
-		<page name="requests">
-			<faq>
-				<title>FAQ 1</title>
-				<md-file path="requests/FAQ1.md"/>
-			</faq>
-			<faq>
-				<title>FAQ 2</title>
-				<md-file path="requests/FAQ2.md"/>
-			</faq>
-		</page>
+	<page name="requests">
+		<faq>
+			<title>FAQ 1</title>
+			<md-file path="requests/FAQ1.md"/>
+		</faq>
+		<faq>
+			<title>FAQ 2</title>
+			<md-file path="requests/FAQ2.md"/>
+		</faq>
+	</page>
 </faqs>
