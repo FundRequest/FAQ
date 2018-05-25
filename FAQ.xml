@@ -25,4 +25,14 @@
 			<filePath>requests/FAQ2.md</filePath>
 		</faq>
 	</page>
+	<page name="fundGithub">
+		<faq>
+			<title>FAQ 1</title>
+			<filePath>fundGithub/FAQ1.md</filePath>
+		</faq>
+		<faq>
+			<title>FAQ 2</title>
+			<filePath>fundGithub/FAQ2.md</filePath>
+		</faq>
+	</page>
 </faqs>
