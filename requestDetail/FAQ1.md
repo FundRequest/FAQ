@@ -1,1 +1,1 @@
-Hmm I'm not sure, one question is of course not a lot, so I guess the chance is very high that others will follow.
+A user's rewards are sent to the ETH address that is defined in their [profile](https://fundrequest.io/profile). If you do not have an ETH address yet, you can create one using [MyEtherWallet](https://myetherwallet.com) or [MyCrypto](http://mycrypto.com/).
