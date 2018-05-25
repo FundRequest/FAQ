@@ -2,6 +2,10 @@
 <faqs>
 	<page name="requestDetail">
 		<faq>
+			<title>What is FND?</title>
+			<filePath>requestDetail/FAQ4.md</filePath>
+		</faq>
+		<faq>
 			<title>Where are the rewards sent to?</title>
 			<filePath>requestDetail/FAQ1.md</filePath>
 		</faq>
