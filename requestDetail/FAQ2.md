@@ -1,1 +1,1 @@
-Aaah better, two questions. One more would be perfect
+The claim button is only visible when the issue is resolved on GitHub.
