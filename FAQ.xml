@@ -2,15 +2,15 @@
 <faqs>
 	<page name="requestDetail">
 		<faq>
-			<title>FAQ 1</title>
+			<title>Where are the rewards sent to?</title>
 			<filePath>requestDetail/FAQ1.md</filePath>
 		</faq>
 		<faq>
-			<title>FAQ 2</title>
+			<title>Why can't I see the claim button?</title>
 			<filePath>requestDetail/FAQ2.md</filePath>
 		</faq>
 		<faq>
-			<title>FAQ 3</title>
+			<title>I can see the claim button, but I can't press it.</title>
 			<filePath>requestDetail/FAQ3.md</filePath>
 		</faq>
 	</page>
