@@ -42,5 +42,9 @@
 	</page>
 	
 	<page name="profile">
+		<faq>
+			<title>Test profile FAQ</title>
+			<filePath>profile/FAQ1.md</filePath>
+		</faq>
 	</page>
 </faqs>
