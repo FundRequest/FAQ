@@ -29,6 +29,7 @@
 			<filePath>requests/FAQ2.md</filePath>
 		</faq>
 	</page>
+	
 	<page name="fundGithub">
 		<faq>
 			<title>FAQ 1</title>
@@ -38,5 +39,8 @@
 			<title>FAQ 2</title>
 			<filePath>fundGithub/FAQ2.md</filePath>
 		</faq>
+	</page>
+	
+	<page name="profile">
 	</page>
 </faqs>
