@@ -32,13 +32,21 @@
 	
 	<page name="fundGithub">
 		<faq>
-			<title>FAQ 1</title>
+			<title>How do I select a GitHub issue?</title>
 			<filePath>fundGithub/FAQ1.md</filePath>
 		</faq>
 		<faq>
-			<title>FAQ 2</title>
+			<title>Should the issue already exist on GitHub?</title>
 			<filePath>fundGithub/FAQ2.md</filePath>
 		</faq>
+                <faq>
+                        <title>What is the minimum amount of FND that I can fund?</title>
+                        <filePath>fundGithub/FAQ3.md</filePath>
+                </faq>
+                <faq>
+                        <title>Why do I have to accept two transactions?</title>
+                        <filePath>fundGithub/FAQ4.md</filePath>
+                </faq>
 	</page>
 	
 	<page name="profile">

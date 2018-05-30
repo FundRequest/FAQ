@@ -1,1 +1,1 @@
-Hmm I'm not sure, one question is of course not a lot, so I guess the chance is very high that others will follow.
+To select a GitHub issue, you just paste the link to the GitHub issue into the input field. The link to a GitHub issue looks something like this: [https://github.com/repoXYZ/issues/123](https://github.com/repoXYZ/issues/123)
