@@ -43,8 +43,21 @@
 	
 	<page name="profile">
 		<faq>
-			<title>Test profile FAQ</title>
+			<title>What is an ETH Address and why do I need it?</title>
 			<filePath>profile/FAQ1.md</filePath>
 		</faq>
+                <faq>
+                        <title>What are FND rewards on the profile page?</title>
+                        <filePath>profile/FAQ2.md</filePath>
+                </faq>
+	        <faq>
+                        <title>I have connected my GitHub account, but I did get an FND reward</title>
+                        <filePath>profile/FAQ3.md</filePath>
+		</faq>
+                <faq>
+                        <title>How to link your GitHub account with your FundRequest profile?</title>
+                        <filePath>profile/FAQ4.md</filePath>
+                </faq>
+
 	</page>
 </faqs>
