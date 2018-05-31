@@ -20,14 +20,14 @@
 	</page>
 
 	<page name="requests">
-		<faq>
+<!-- 		<faq>
 			<title>FAQ 1</title>
 			<filePath>requests/FAQ1.md</filePath>
 		</faq>
 		<faq>
 			<title>FAQ 2</title>
 			<filePath>requests/FAQ2.md</filePath>
-		</faq>
+		</faq> -->
 	</page>
 	
 	<page name="fundGithub">
