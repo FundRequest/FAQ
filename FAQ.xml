@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faqs>
-	<page name="requestDetail" subtitle="Test">
+	<page name="requestDetail">
 		<faq>
 			<title>What is FND?</title>
 			<filePath>requestDetail/FAQ4.md</filePath>
@@ -49,7 +49,7 @@
                 </faq>
 	</page>
 	
-	<page name="profile"  subtitle="Test">
+	<page name="profile"  subtitle="Testing">
 		<faq>
 			<title>What is an ETH Address and why do I need it?</title>
 			<filePath>profile/FAQ1.md</filePath>
