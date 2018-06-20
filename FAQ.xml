@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faqs>
-	<page name="requestDetail">
+	<page name="requestDetail" subtitle="Test">
 		<faq>
 			<title>What is FND?</title>
 			<filePath>requestDetail/FAQ4.md</filePath>
