@@ -30,7 +30,7 @@
 		</faq>
 	</page>
 
-	<page name="fundGithub">
+	<page name="fundGithub" subtitle="Funding issues on GitHub explained.">
 		<faq>
 			<title>How do I select a GitHub issue?</title>
 			<filePath>fundGithub/FAQ1.md</filePath>
