@@ -29,7 +29,7 @@
 			<filePath>requests/FAQ2.md</filePath>
 		</faq>
 	</page>
-	
+
 	<page name="fundGithub">
 		<faq>
 			<title>How do I select a GitHub issue?</title>
@@ -48,8 +48,7 @@
                         <filePath>fundGithub/FAQ4.md</filePath>
                 </faq>
 	</page>
-	
-	<page name="profile"  subtitle="Testing">
+	<page name="profile">
 		<faq>
 			<title>What is an ETH Address and why do I need it?</title>
 			<filePath>profile/FAQ1.md</filePath>
@@ -59,7 +58,7 @@
                         <filePath>profile/FAQ2.md</filePath>
                 </faq>
 	        <faq>
-                        <title>I have connected my GitHub account, but I did get an FND reward</title>
+                        <title>I have connected my GitHub account, but I didn't get an FND reward</title>
                         <filePath>profile/FAQ3.md</filePath>
 		</faq>
                 <faq>
