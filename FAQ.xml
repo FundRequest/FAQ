@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faqs>
-	<page name="requestDetail">
+	<page name="requestDetail" subtitle="Rewards and claim process explained.">
 		<faq>
 			<title>What is FND?</title>
 			<filePath>requestDetail/FAQ4.md</filePath>
@@ -19,7 +19,7 @@
 		</faq>
 	</page>
 
-	<page name="requests">
+	<page name="requests" subtitle="Most asked questions regarding requests in FundRequest">
 		<faq>
 			<title>FAQ 1</title>
 			<filePath>requests/FAQ1.md</filePath>
@@ -48,7 +48,7 @@
                         <filePath>fundGithub/FAQ4.md</filePath>
                 </faq>
 	</page>
-	<page name="profile">
+	<page name="profile" subtitle="Some extra information regarding your profile on FundRequest">
 		<faq>
 			<title>What is an ETH Address and why do I need it?</title>
 			<filePath>profile/FAQ1.md</filePath>
