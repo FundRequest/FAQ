@@ -53,10 +53,6 @@
 			<title>What is an ETH Address and why do I need it?</title>
 			<filePath>profile/FAQ1.md</filePath>
 		</faq>
-                <faq>
-                        <title>What are FND rewards on the profile page?</title>
-                        <filePath>profile/FAQ2.md</filePath>
-                </faq>
 	        <faq>
                         <title>I have connected my GitHub account, but I didn't get an FND reward</title>
                         <filePath>profile/FAQ3.md</filePath>
